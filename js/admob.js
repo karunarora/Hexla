@@ -16,10 +16,8 @@ if(AdMob) AdMob.createBanner( {
     autoShow:true} );
 // Note that autoShow is true
 if(window.AdMob) AdMob.prepareInterstitial( {adId:admobid.interstitial, autoShow:false} );
+if(window.AdMob) AdMob.showInterstitial();
 
-window.onbeforeunload = function(){
-			  if(window.AdMob) AdMob.showInterstitial();
-		};
 
 
 
