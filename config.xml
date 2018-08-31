@@ -2,9 +2,9 @@
 <widget id="com.karunarora.hexla" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Hexla</name>
     <description>
-        Addictive puzzle game
+        An Addictive puzzle game 
     </description>
-    <author email="mail@karunarora.com" href="http://karunarora.com">
+    <author email="arorakarun786@gmail.com" href="http://www.karunarora.com">
         Karun Arora
     </author>
     <content src="index.html" />
